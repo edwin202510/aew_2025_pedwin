@@ -2,3 +2,15 @@
 h1 {
     color:blue; 
 }
+
+h2 {
+    color:rgb(216, 196, 16);
+}
+
+body {
+    background-color: rgb(209, 236, 191);
+}
+
+p {
+    color:coral;
+}
